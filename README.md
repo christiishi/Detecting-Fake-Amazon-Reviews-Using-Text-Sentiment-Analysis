@@ -4,7 +4,7 @@
 This project analyzes Amazon product reviews to identify suspicious and potentially fake reviews by examining reviewer behavior, textual patterns, and sentiment signals. Using a combination of unsupervised and supervised machine learning techniques, the project detects anomalous review activity and develops interpretable rules to support fraud detection and trust preservation on e-commerce platforms.
 
 ## Problem Statement
-E-commerce sits like Amazon rely heavily on user reviews to inform purchasing decisions. However, the presence of fake or coordinated reviews undermines customer trust and platform credibility. This project aims to address the following challenges:
+E-commerce sites like Amazon rely heavily on user reviews to inform purchasing decisions. However, the presence of fake or coordinated reviews undermines customer trust and platform credibility. This project aims to address the following challenges:
 
 * Detect suspicious or potentially fake reviews using behavioral and textual signals
 * Identify abnormal reviewer behavior such as high-frequency posting and burst activity
